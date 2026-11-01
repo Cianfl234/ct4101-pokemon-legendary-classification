@@ -1,7 +1,7 @@
 # CT4101 ML Portfolio Project: Predicting Legendary Pokémon
 
 Machine Learning portfolio project for CT4101 (University of Galway).
-**Author:** Cian Flanagan (233891703)
+**Author:** Cian Flanagan (23391703)
 
 ## Project question
 Can a Pokémon's physical characteristics, battle statistics and type be used to predict whether it is Legendary?
