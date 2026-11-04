@@ -3,6 +3,10 @@
 Machine Learning portfolio project for CT4101 (University of Galway).
 **Author:** Cian Flanagan (23391703)
 
+## Assistance Declaration
+AI tools were used during this project to assist with research, understanding machine learning concepts, planning, coding, debugging, data analysis, and reviewing.
+All AI-assisted work was reviewed and evaluated by the author, who ran the code and developed an understanding of the concepts, methods and decisions used. 
+
 ## Project question
 Can a Pokémon's physical characteristics, battle statistics and type be used to predict whether it is Legendary?
 This is a binary classification task. The target is `is_legendary` (about 9% positive, so the classes are imbalanced).
