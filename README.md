@@ -18,7 +18,7 @@ Source, licence and citation details are in `data/README.md`.
 ## Current status
 - [x] Milestone 1: Project proposal
 - [x] Milestone 2: Data audit, preprocessing pipeline, evaluation design, baseline
-- [ ] Milestone 3: KNN, Decision Tree, Random Forest comparison + error analysis
+- [ ] Milestone 3: KNN, Decision Tree, Random Forest comparison + error analysis (In progress)
 - [ ] Milestone 4: Final report, video, assistance declaration
 
 ## Repository structure
