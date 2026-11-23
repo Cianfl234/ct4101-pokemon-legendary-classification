@@ -19,7 +19,7 @@ Source, licence and citation details are in `data/README.md`.
 - [x] Milestone 1: Project proposal
 - [x] Milestone 2: Data audit, preprocessing pipeline, evaluation design, baseline
 - [x] Milestone 3: KNN, Decision Tree, Random Forest comparison + error analysis
-- [ ] Milestone 4: Final report, video, assistance declaration
+- [ ] Milestone 4: Final report, video, assistance declaration (WIP)
 
 ## Repository structure
 ```
